@@ -12,7 +12,7 @@
 
     <name>Maven Frontend Plugin</name>
     <prerequisites>
-        <maven>3.1.0</maven>
+        <maven>3.0.5</maven>
     </prerequisites>
 
     <description>
@@ -32,14 +32,14 @@
         <dependency>
             <groupId>org.apache.maven</groupId>
             <artifactId>maven-core</artifactId>
-            <version>3.1.0</version>
+            <version>3.0.5</version>
             <scope>provided</scope>
         </dependency>
 
         <dependency>
             <groupId>org.apache.maven</groupId>
             <artifactId>maven-plugin-api</artifactId>
-            <version>3.1.0</version>
+            <version>3.2.5</version>
         </dependency>
 
         <dependency>
